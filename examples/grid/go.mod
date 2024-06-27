@@ -1,7 +1,7 @@
-module github.com/lukeroth/gdal/examples/grid
+module github.com/DanaDynamics/gdal/examples/grid
 
 go 1.13
 
-replace github.com/lukeroth/gdal => ../..
+replace github.com/DanaDynamics/gdal => ../..
 
-require github.com/lukeroth/gdal v0.0.0-00010101000000-000000000000
+require github.com/DanaDynamics/gdal v0.0.0-00010101000000-000000000000
